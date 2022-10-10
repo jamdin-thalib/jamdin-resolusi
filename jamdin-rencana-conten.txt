@@ -3,6 +3,7 @@ RENCNA KONTEK JAMDIN
   * ES6
   * Framework Javasript
     - Vue
+    - React
 - Struktur Data Dasar
 - PHP Frameworks
   ^ laravel
