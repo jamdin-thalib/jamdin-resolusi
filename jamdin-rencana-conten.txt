@@ -1,0 +1,7 @@
+RENCNA KONTEK JAMDIN
+- Javascript
+  * ES6
+  * Framework Javasript
+- PHP Frameworks
+- Interview
+- VLog
