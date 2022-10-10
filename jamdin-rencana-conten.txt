@@ -2,7 +2,10 @@ RENCNA KONTEK JAMDIN
 - Javascript
   * ES6
   * Framework Javasript
+    - Vue
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ laravel
 - Interview
 - VLog
+- Phyton
